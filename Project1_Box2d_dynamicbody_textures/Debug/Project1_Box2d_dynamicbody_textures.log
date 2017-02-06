@@ -1,0 +1,17 @@
+﻿Build started 2/3/2017 1:01:01 PM.
+     1>Project "E:\students project Directx\Project1_Box2d_dynamicbody_textures\Project1_Box2d_dynamicbody_textures\Project1_Box2d_dynamicbody_textures.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\Opengl ebooks\softwares\opengl-wrappers\glfw-3.1.2.bin.WIN32\glfw-3.1.2.bin.WIN32\include" /I"D:\Code blocks box2d\Box2D-master (1)\Box2D-master\Box2D" /I"E:\Opengl ebooks\softwares\opengl-wrappers\soil\Simple OpenGL Image Library\src" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\students project directx\project1_box2d_dynamicbody_textures\project1_box2d_dynamicbody_textures\source.cpp(67): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\students project directx\project1_box2d_dynamicbody_textures\project1_box2d_dynamicbody_textures\source.cpp(112): warning C4305: 'argument' : truncation from 'double' to 'float32'
+     1>e:\students project directx\project1_box2d_dynamicbody_textures\project1_box2d_dynamicbody_textures\source.cpp(127): warning C4305: 'argument' : truncation from 'double' to 'float32'
+     1>e:\students project directx\project1_box2d_dynamicbody_textures\project1_box2d_dynamicbody_textures\source.cpp(144): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\students project Directx\Project1_Box2d_dynamicbody_textures\Debug\Project1_Box2d_dynamicbody_textures.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Opengl ebooks\softwares\opengl-wrappers\glfw-3.1.2.bin.WIN32\glfw-3.1.2.bin.WIN32\lib-vc2012" /LIBPATH:"D:\Code blocks box2d\Box2D-master (1)\Box2D-master\Box2D\lib" /LIBPATH:"E:\Opengl ebooks\softwares\opengl-wrappers\soil\Simple OpenGL Image Library\lib" opengl32.lib glfw3.lib Box2D.lib SOIL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\students project Directx\Project1_Box2d_dynamicbody_textures\Debug\Project1_Box2d_dynamicbody_textures.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\students project Directx\Project1_Box2d_dynamicbody_textures\Debug\Project1_Box2d_dynamicbody_textures.lib" /MACHINE:X86 Debug\Source.obj
+         Project1_Box2d_dynamicbody_textures.vcxproj -> E:\students project Directx\Project1_Box2d_dynamicbody_textures\Debug\Project1_Box2d_dynamicbody_textures.exe
+     1>Done Building Project "E:\students project Directx\Project1_Box2d_dynamicbody_textures\Project1_Box2d_dynamicbody_textures\Project1_Box2d_dynamicbody_textures.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.27
